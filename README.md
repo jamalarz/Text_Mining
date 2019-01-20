@@ -2,7 +2,7 @@
 # TEXT MINING
 
 
-##  Classification of Documents Data
+##  Classification of NG5 Documents Dataset
 
 
 
